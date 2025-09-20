@@ -1,0 +1,4 @@
+for the face-recognition project I installed
+1. Python
+2. Pillow extension
+3. tkinter is used -  read about this
